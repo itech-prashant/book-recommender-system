@@ -1,4 +1,4 @@
-###### Url for Web App : https://book-recommender-prashant.herokuapp.com/
+###### Url for Web App : https://book-recommender-prashant.herokuapp.com/ (unavailable now since heroku is paid platform now)
 # Book Recommender System
 
 ## Description:
